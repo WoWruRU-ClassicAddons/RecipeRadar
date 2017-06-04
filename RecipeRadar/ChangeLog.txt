@@ -1,5 +1,16 @@
+Recipe Radar (vanilla) ChangeLog
 
-Recipe Radar ChangeLog
+v1.15; 3.02.2017
+
+- Added square minimaps support for icons on minimap & for minimapbutton
+- Fixed first startup errors
+- More support for MBB
+
+v1.14; 2.02.2017
+
+- Added MBB compatibility (better minimap button managment),
+- Added RUru localization by Maus
+- backported some fixes from original 1.14 release
 
 v1.11; September 18, 2006
 
